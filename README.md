@@ -5,6 +5,6 @@ This repository is for use with LC-DL, if you don't know what that is, it's an a
 placeholder
 
 ## Available Apps:
-> ℹ️ Note : All apps available here have been tested and are already setup for use with LiveContainer. Additional info will show for each app you download.
+> All apps available here have been tested and are already setup for use with LiveContainer. 
 
 ### More Info:
