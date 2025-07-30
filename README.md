@@ -4,7 +4,6 @@ This repository is for use with LC-DL, if you don't know what that is, it's an a
 
 
 ## Available Apps:
->[!Note]
-All apps here have been tested and are confirmed to work with LiveContainer. Any apps you download require no setup and can be used directly after downloading.
+> ℹ️ Note : All apps available here have been tested and are already setup for use with LiveContainer. Additional info will show for each app you download.
 
 ### More Info:
