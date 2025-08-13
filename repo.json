@@ -1,4 +1,5 @@
 {
+  "type": "repo",
   "name": "The LC-DL App Repository",
   "url": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/apps.json"
 }
