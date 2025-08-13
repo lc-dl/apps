@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Pocket Poster",
+  "desc": "Custom PosterBoard animated wallpapers for iOS 17.0+",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.lemin.Pocket-Poster.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.lemin.Pocket-Poster/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "2.0.2",
+  "size": "14.4 MB"
+}
