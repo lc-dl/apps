@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Bloons TD 6 NETFLIX - iOSGods.com",
+  "desc": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available. Netflix account required.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.netflix.NGP.BloonsTDSix.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.netflix.NGP.BloonsTDSix/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "49.3",
+  "size": "263.2 MB"
+}
