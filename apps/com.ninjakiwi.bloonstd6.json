@@ -2,7 +2,7 @@
   "type": "app",
   "name": "Bloons TD 6",
   "desc": "Craft your perfect defense from a combination of awesome Monkey Towers, upgrades, Heroes, and activated abilities, then pop every last invading Bloon!",
-  "icon": "https://http://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.ninjakiwi.bloonstd6.png",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.ninjakiwi.bloonstd6.png",
   "appURL": "https://github.com/lc-dl/apps/releases/download/com.ninjakiwi.bloonstd6/app.zip",
   "tweaks": false,
   "data": false,
