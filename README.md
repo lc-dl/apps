@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Welcome to the LC-DL App Repository!  
 This repository is for use with [**LC-DL**](https://lc-dl.github.io), an app downloader built for LiveContainer.
 
@@ -5,10 +7,11 @@ This repository is for use with [**LC-DL**](https://lc-dl.github.io), an app dow
 
 or enter this code in LC-DL: `VsL2nf`
 
-
 ## Available Apps:
 > All apps available here have been tested and are already setup for use with LiveContainer.
 
 ### Apps:
 
 ### Games:
+
+</dev>
