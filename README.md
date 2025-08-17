@@ -3,15 +3,15 @@
   
 This repository is for use with <a href="https://lc-dl.github.io"><b>LC-DL</b></a>, an app downloader built for LiveContainer.<br>
 
-<a href ="https://tinyurl.com/bpu5ubk8"><img src="repo.png" width="150"></a>
+<a href ="https://tinyurl.com/bpu5ubk8"><img src="repo.png" width="150"></a><br>
 
-Repository Code: `VsL2nf`
+Repository Code: `VsL2nf`<br>
 
-## Available Apps:
-> All apps available here have been tested and are already setup for use with LiveContainer.
+<h2>Available Apps:</h2>
+<sub>All apps available here have been tested and are already setup for use with LiveContainer.</sub>
 
-### Apps:
+<h3>Apps:</h3>
 
-### Games:
+<h3>Games:</h3>
 
-</dev>
+</div>
