@@ -13,5 +13,6 @@ Repository Code: `VsL2nf`<br>
 <h3>Apps:</h3>
 
 <h3>Games:</h3>
+<a href="shortcuts://run-shortcut?name=LC-DL&input=[lcdl://eSsWmj]">BTD6</a>
 
 </div>
