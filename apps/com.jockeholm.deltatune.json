@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "DELTARUNE",
+  "desc": "Dive into the parallel story to UNDERTALE! Fight or spare your way through action-packed battles as you explore a mysterious world alongside an endearing cast of new and familiar characters.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.jockeholm.deltatune.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.jockeholm.deltatune/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "2.0.0",
+  "size": "88.8 MB"
+}
