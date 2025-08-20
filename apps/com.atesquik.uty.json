@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "UNDERTALE YELLOW",
+  "desc": "Welcome to UNDERTALE YELLOW, a fan-made prequel to the hit RPG “UNDERTALE”. When a child named Clover sets out on a mission, they find themself deep within the Underground. In this foreign land, monsters lurk around every corner, but are they friend or foe?",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.atesquik.uty.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.atesquik.uty/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.0.0",
+  "size": "302.9 MB"
+}
