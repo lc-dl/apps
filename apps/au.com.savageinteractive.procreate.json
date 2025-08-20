@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Procreate",
+  "desc": "Procreate has everything you need to create expressive sketches, rich paintings, gorgeous illustrations, and beautiful animations. Offering 100s of handmade brushes, a suite of industry-leading artistic tools, an advanced layer system, and the powerful Valkyrie graphics engine.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/au.com.savageinteractive.procreate.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/au.com.savageinteractive.procreate/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "5.3.15",
+  "size": "461 MB"
+}
