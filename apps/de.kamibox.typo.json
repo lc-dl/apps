@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "supertype",
+  "desc": "How does a p fall? How much does an r weigh? And how does the dot over an i sound?",
+  "icon": "https://raw.githubusercontent.com/sinceohsix/lcdl-repo/refs/heads/main/icons/de.kamibox.typo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/de.kamibox.typo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "2.07",
+  "size": "49.3 MB"
+}
