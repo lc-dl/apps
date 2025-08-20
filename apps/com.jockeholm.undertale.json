@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "UNDERTALE",
+  "desc": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters. Now you must find your way out... or stay trapped forever.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.jockeholm.undertale.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.jockeholm.undertale/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "2.0.0",
+  "size": "179.7 MB"
+}
