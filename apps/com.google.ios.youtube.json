@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "YTLitePlus",
+  "desc": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.google.ios.youtube.png",
+  "appURL": "https://files.catbox.moe/xafrwt.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "19.34.2-5.0.1",
+  "size": "241.7 MB"
+}
