@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Procreate Pocket",
+  "desc": "Description",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/au.com.savageinteractive.procreate-pocket.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/au.com.savageinteractive.procreate-pocket/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "4.0.14",
+  "size": "322.2 MB"
+}
