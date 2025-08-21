@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Five Nights at Freddy's 4",
+  "desc": "In this last chapter of the Five Nights at Freddy's original story, you must once again defend yourself against Freddy Fazbear, Chica, Bonnie, Foxy, and even worse things that lurk in the shadows. Playing as a child whose role is yet unknown, you must safeguard yourself until 6am by watching the doors, as well as warding off unwanted creatures that may venture into your closet or onto the bed behind you.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.scottgames.fnaf4.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.scottgames.fnaf4/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "2.0.2",
+  "size": "55.4 MB"
+}
