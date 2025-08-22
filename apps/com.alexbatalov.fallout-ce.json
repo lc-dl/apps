@@ -1,7 +1,7 @@
 {
   "type": "app",
   "name": "Fallout",
-  "desc": "Fallout 1 Community Edition",
+  "desc": "Fallout Community Edition is a fully working re-implementation of Fallout, with the same original gameplay, engine bugfixes, and some quality of life improvements, that works (mostly) hassle-free on multiple platforms.",
   "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.alexbatalov.fallout-ce.png",
   "appURL": "https://github.com/lc-dl/apps/releases/download/com.alexbatalov.fallout-ce/app.zip",
   "tweaks": false,
