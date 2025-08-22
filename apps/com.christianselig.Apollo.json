@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Apollo",
+  "desc": "Apollo is a powerful and customizable Reddit app for iOS.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.christianselig.Apollo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.christianselig.Apollo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.15.11",
+  "size": "115.9 MB"
+}
