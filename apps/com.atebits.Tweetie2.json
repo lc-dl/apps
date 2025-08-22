@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Twitter",
+  "desc": "NeoFreeBird is a modified Twitter app with branding reverts, BHTwitter and other QoL modifications. It also seems to be faster compared to the official Twitter app, which says something.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.atebits.Tweetie2.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.atebits.Tweetie2/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "11.5.5",
+  "size": "385.3 MB"
+}
