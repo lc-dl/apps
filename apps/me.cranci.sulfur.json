@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Sora",
+  "desc": "A modular media player for iOS and macOS.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/me.cranci.sulfur.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/me.cranci.sulfur/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.0.1",
+  "size": "5.9 MB"
+}
