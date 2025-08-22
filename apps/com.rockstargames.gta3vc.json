@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "GTA Vice City",
+  "desc": "Welcome to the 1980s. From the decade of big hair, excess, and pastel suits comes a story of one man's rise to the top of the criminal pile as Grand Theft Auto returns.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.rockstargames.gta3vc.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.rockstargames.gta3vc/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.5.6",
+  "size": "1.17 GB"
+}
