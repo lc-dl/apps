@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Minecraft",
+  "desc": "Dive into an open world of building, crafting, and survival in Minecraft - the ultimate sandbox building simulation game. Gather resources, survive the night, and build an epic adventure one block at a time. Explore and craft your way through a completely open world where you can play with friends. Build a world, start a farm, mine deep into the ground, face mysterious enemies, or just experiment to the limits of your imagination!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.mojang.minecraftpe.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.mojang.minecraftpe/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.21.101",
+  "size": "988.2 MB"
+}
