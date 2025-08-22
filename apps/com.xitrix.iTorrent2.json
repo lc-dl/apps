@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "",
+  "desc": "It is an ordinary torrent client for iOS with Files app support.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.xitrix.iTorrent2.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.xitrix.iTorrent2/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "2.0.14",
+  "size": "19.5 MB"
+}
