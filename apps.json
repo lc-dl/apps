@@ -70,5 +70,45 @@
    "18":{
       "name":"UNDERTALE",
       "bundleID":"com.jockeholm.undertale"
+   },
+   "19":{
+      "name":"Pocket Poster",
+      "bundleID":"com.lemin.Pocket-Poster"
+   },
+   "20":{
+      "name":"Bloons TD6 (iOSGods)",
+      "bundleID":"com.netflix.NGP.BloonsTDSix"
+   },
+   "21":{
+      "name":"Grand Theft Auto: Vice City",
+      "bundleID":"com.rockstargames.gta3vc"
+   },
+   "22":{
+      "name":"True Skate",
+      "bundleID":"com.trueaxis.skate"
+   },
+   "23":{
+      "name":"iTorrent",
+      "bundleID":"com.xitrix.iTorrent2"
+   },
+   "24":{
+      "name":"Uncanny Cat Golf",
+      "bundleID":"con.TDMbest.UCG"
+   },
+   "25":{
+      "name":"supertype",
+      "bundleID":"de.kamibox.typo"
+   },
+   "26":{
+      "name":"Sora",
+      "bundleID":"me.cranci.sulfur"
+   },
+   "27":{
+      "name":"Sora",
+      "bundleID":"me.cranci.sulfur"
+   },
+   "28":{
+      "name":"osu!",
+      "bundleID":"sh.ppy.osulazer"
    }
 }
