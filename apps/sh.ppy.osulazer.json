@@ -1,7 +1,7 @@
 {
   "type": "app",
   "name": "osu!",
-  "desc": "A free-to-win rhythm game. Rhythm is just a *click* away! This is the future – and final – iteration of the osu! game client which marks the beginning of an open era! Currently known by and released under the release codename 'lazer'. As in sharper than cutting-edge."
+  "desc": "A free-to-win rhythm game. Rhythm is just a *click* away! This is the future – and final – iteration of the osu! game client which marks the beginning of an open era! Currently known by and released under the release codename 'lazer'. As in sharper than cutting-edge.",
   "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/sh.ppy.osulazer.png",
   "appURL": "https://github.com/lc-dl/apps/releases/download/sh.ppy.osulazer/app.zip",
   "tweaks": false,
