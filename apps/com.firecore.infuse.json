@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Infuse",
+  "desc": "Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, Apple TV, Mac, and Vision.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.firecore.infuse.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.firecore.infuse/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "8.2.2",
+  "size": "138.7 MB"
+}
