@@ -1,7 +1,7 @@
 {
   "type": "app",
   "name": "Procreate Pocket",
-  "desc": "Description",
+  "desc": "Procreate Pocket has the full power of Procreate in the palm of your hand. Sketch, paint, and edit your creations with the most versatile creative app on iPhone.",
   "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/au.com.savageinteractive.procreate-pocket.png",
   "appURL": "https://github.com/lc-dl/apps/releases/download/au.com.savageinteractive.procreate-pocket/app.zip",
   "tweaks": false,
