@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Plants VS Zombies: Fusion",
+  "desc": "Plants vs. Zombies: Fusion is a fan-made, full-featured remake of the original tower defense game that allows players to combine different plants to create powerful hybrid plants with new abilities, adding a complex layer of strategy to the classic gameplay. Available in Chinese only.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.GLESign.PlantsVsZombiesRH.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.GLESign.PlantsVsZombiesRH/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "2.0.4",
+  "size": "459.6 MB"
+}
