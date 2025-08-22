@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Pizza Tower",
+  "desc": "Pizza Tower is a fast paced 2D platformer, with an emphasis on movement, exploration and score attack. Featuring highly stylized pixel art inspired by the cartoons from the '90s, and a highly energetic soundtrack.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.atesquik.pizzatower.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.atesquik.pizzatower/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.0.5492",
+  "size": "385.5 MB"
+}
