@@ -1,7 +1,7 @@
 {
   "type": "repo",
   "name": "The LC-DL App Repository",
-  "msg": "Hello! New repo format!",
+  "msg": "The official LC-DL repository with over 30 apps.",
   "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icon.png",
   "url": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/"
 }
