@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Bakeria To Go",
+  "desc": "Bake and decorate delicious pies in Papa's Bakeria To Go!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papasbakeriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papasbakeriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.0.0",
+  "size": "32.5 MB"
+}

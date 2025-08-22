@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Cupcakeria To Go",
+  "desc": "Bake and decorate delicious cupcakes on the go with this brand-new version of Papa's Cupcakeria, with gameplay and controls reimagined for iPhone and iPod Touch!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papascupcakeriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papascupcakeriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.1.0",
+  "size": "61 MB"
+}

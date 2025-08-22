@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Cheeseria To Go",
+  "desc": "Papa's Cheeseria is kicking off its grand opening with a special performance by the high-energy band, Scarlett and the Shakers! Unfortunately the concert is canceled when all of the music gear is stolen, and you'll need to pick up a job to afford buying new instruments for the band. Thankfully Papa Louie has the perfect solution for you: He's putting you in charge of making grilled cheese sandwiches in his newest restaurant!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papascheeseriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papascheeseriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.0.1",
+  "size": "49.9 MB"
+}

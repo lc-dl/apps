@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Pizzeria To Go",
+  "desc": "Things get messy when you’re stuck running a wildly popular pizza parlor in Papa’s Pizzeria To Go! Top, bake, and serve pizzas in this award-winning game that’s reimagined for iPhone and iPod Touch.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papaspizzeriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papaspizzeriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.1.0",
+  "size": "63.7 MB"
+}

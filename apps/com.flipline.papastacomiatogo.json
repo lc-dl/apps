@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Taco Mia To Go",
+  "desc": "It's a flavor fiesta in this new version of Papa's Taco Mia, with gameplay and controls reimagined for iPhone and iPod Touch!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papastacomiatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papastacomiatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.1.1",
+  "size": "80.8 MB"
+}

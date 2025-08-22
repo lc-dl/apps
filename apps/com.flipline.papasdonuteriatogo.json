@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Donuteria To Go",
+  "desc": "Fry and serve delicious donuts in Papa's Donuteria To Go!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papasdonuteriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papasdonuteriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.0.1",
+  "size": "64.1 MB"
+}

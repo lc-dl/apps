@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Hot Doggeria To Go",
+  "desc": "Serve seasonal stadium favorites on the go in this new version of Papa's Hot Doggeria, with gameplay and controls reimagined for iPhone and iPod Touch!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papashotdoggeriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papashotdoggeriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.1.0",
+  "size": "87.2 MB"
+}

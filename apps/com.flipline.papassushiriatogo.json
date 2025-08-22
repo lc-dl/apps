@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Sushiria To Go",
+  "desc": "Slice and serve delicious sushi in Papa's Sushiria To Go!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papassushiriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papassushiriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.0.0",
+  "size": "49.2 MB"
+}

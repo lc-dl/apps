@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Wingeria To Go",
+  "desc": "Fry and toss tons of saucy wings and things in Papa's Wingeria To Go!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papaswingeriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papaswingeriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.0.1",
+  "size": "48.2 MB"
+}

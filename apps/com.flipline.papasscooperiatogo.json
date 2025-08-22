@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Scooperia To Go",
+  "desc": "Serve delicious cookie sundaes on the go in Papa's Scooperia To Go!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papasscooperiatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papasscooperiatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.1.0",
+  "size": "44.6 MB"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Freezeria To Go",
+  "desc": "Build and serve sundaes on the go with this brand-new version of Papa's Freezeria, with gameplay and controls reimagined for iPhone and iPod Touch!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papasfreezeriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papasfreezeriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.2.0",
+  "size": "47.8 MB"
+}

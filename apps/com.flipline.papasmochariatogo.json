@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Mocharia To Go",
+  "desc": "Create delicious coffee drinks and cannoli in Papa's Mocharia To Go!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papasmochariatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papasmochariatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.0.2",
+  "size": "51.1 MB"
+}

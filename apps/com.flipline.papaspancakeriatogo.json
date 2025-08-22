@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Pancakeria To Go",
+  "desc": "Serve breakfast on the go in Papa's Pancakeria To Go!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papaspancakeriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papaspancakeriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.2.0",
+  "size": "46.4 MB"
+}

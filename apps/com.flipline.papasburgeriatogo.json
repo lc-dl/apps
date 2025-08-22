@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's Burgeria To Go",
+  "desc": "Papa's Burgeria is now available to play on the go, with gameplay and controls reimagined for iPhone and iPod Touch.  Grill, stack, and serve burgers in a brand-new way!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/com.flipline.papasburgeriatogo.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/com.flipline.papasburgeriatogo/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.2.0",
+  "size": "46.7 MB"
+}
