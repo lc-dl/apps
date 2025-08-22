@@ -6,6 +6,7 @@
   "appURL": "https://github.com/lc-dl/apps/releases/download/com.alexbatalov.fallout-ce/app.zip",
   "tweaks": false,
   "data": false,
+  "dataURL1": "https://github.com/lc-dl/apps/releases/download/com.alexbatalov.fallout-ce/app.zip",
   "version": "1.0.0",
   "size": "9.5 MB"
 }
