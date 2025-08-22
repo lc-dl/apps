@@ -44,8 +44,8 @@
       "bundleID":"com.atebits.Tweetie2"
    },
    "12":{
-      "name":"BHInstagram",
-      "bundleID":"com.burbn.instagram"
+      "name":"UNDERTALE YELLOW",
+      "bundleID":"com.atesquik.uty"
    },
    "13":{
       "name":"Five Nights at Freddy's 4",
@@ -54,5 +54,21 @@
    "14":{
       "name":"Pizza Tower",
       "bundleID":"com.atesquik.pizzatower"
+   },
+   "15":{
+      "name":"Apollo",
+      "bundleID":"com.christianselig.Apollo"
+   },
+   "16":{
+      "name":"Infuse",
+      "bundleID":"com.firecore.infuse"
+   },
+   "17":{
+      "name":"DELTARUNE",
+      "bundleID":"com.jockeholm.deltarune"
+   },
+   "18":{
+      "name":"UNDERTALE",
+      "bundleID":"com.jockeholm.undertale"
    }
 }
