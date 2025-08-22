@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Uncanny Cat Golf",
+  "desc": "Uncanny Cat Golf is, at its core, a simple golf game; using your finger, you hit the CANNY CAT and you try to get it to the goal in as few hits as possible. Look out for the UNCANNY CATS, however - they will constantly pursuit and will not stop until they catch you!",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/con.TDMbest.UCG.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/con.TDMbest.UCG/app.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1.0.0",
+  "size": "186.3 MB"
+}
