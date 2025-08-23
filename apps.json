@@ -110,5 +110,69 @@
    "28":{
       "name":"osu!",
       "bundleID":"sh.ppy.osulazer"
+   },
+   "29":{
+      "name":"Papa's Bakeria To Go",
+      "bundleID":"com.flipline.papasbakeriatogo"
+   },
+   "30":{
+      "name":"Papa's Burgeria To Go",
+      "bundleID":"com.flipline.papasburgeriatogo"
+   },
+   "31":{
+      "name":"Papa's Cheeseria To Go",
+      "bundleID":"com.flipline.papascheeseriatogo"
+   },
+   "32":{
+      "name":"Papa's Cluckeria To Go",
+      "bundleID":"com.flipline.papascluckeriatogo"
+   },
+   "33":{
+      "name":"Papa's Cupcakeria To Go",
+      "bundleID":"com.flipline.papascupcakeriatogo"
+   },
+   "34":{
+      "name":"Papa's Donuteria To Go",
+      "bundleID":"com.flipline.papasdonuteriatogo"
+   },
+   "35":{
+      "name":"Papa's Freezeria To Go",
+      "bundleID":"com.flipline.papasfreezeriatogo"
+   },
+   "36":{
+      "name":"Papa's Hot Doggeria To Go",
+      "bundleID":"com.flipline.papashotdoggeriatogo"
+   },
+   "37":{
+      "name":"Papa's Mocharia To Go",
+      "bundleID":"com.flipline.papasmochariatogo"
+   },
+   "38":{
+      "name":"Papa's Pancakeria To Go",
+      "bundleID":"com.flipline.papaspancakeriatogo"
+   },
+   "39":{
+      "name":"Papa's Pastaria To Go",
+      "bundleID":"com.flipline.papaspastariatogo"
+   },
+   "40":{
+      "name":"Papa's Pizzaria To Go",
+      "bundleID":"com.flipline.papaspizzariatogo"
+   },
+   "41":{
+      "name":"Papa's Scooperia To Go",
+      "bundleID":"com.flipline.papasscooperiatogo"
+   },
+   "42":{
+      "name":"Papa's Sushiria To Go",
+      "bundleID":"com.flipline.papassushiriatogo"
+   },
+   "43":{
+      "name":"Papa's Taco Mia To Go",
+      "bundleID":"com.flipline.papastacomiatogo"
+   },
+   44":{
+      "name":"Papa's Wingeria To Go",
+      "bundleID":"com.flipline.papaswingeriatogo"
    }
 }
