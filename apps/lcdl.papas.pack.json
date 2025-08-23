@@ -1,0 +1,11 @@
+{
+  "type": "app",
+  "name": "Papa's To Go Pack",
+  "desc": "This pack includes EVERY Papa's To-Go game (except for Paleteria) in one pack for you to download and play.",
+  "icon": "https://raw.githubusercontent.com/lc-dl/apps/refs/heads/main/icons/lcdl.papas.pack.png",
+  "appURL": "https://github.com/lc-dl/apps/releases/download/lcdl.papas.pack/pack.zip",
+  "tweaks": false,
+  "data": false,
+  "version": "1",
+  "size": "895.9 MB"
+}
