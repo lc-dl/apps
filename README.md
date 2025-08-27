@@ -33,7 +33,7 @@ All apps available here have been tested and are already setup for use with Live
 |    <img src=icons/com.atesquik.pizzatower.png width=90>    |        Pizza Tower        | [<img src=assets/install.png width=100>](https://tinyurl.com/3ebab7dj)<br>`dqq5h0` |
 |        <img src=icons/con.TDMbest.UCG.png width=90>        |      Uncanny Cat Golf     | [<img src=assets/install.png width=100>](https://tinyurl.com/yh3npuzj)<br>`Cs2dAa` |
 | <img src=icons/com.GLESign.PlantsVsZombiesRH.png width=90> | Plants VS Zombies: Fusion | [<img src=assets/install.png width=100>](https://tinyurl.com/yc2twc25)<br>`Lj5vVk` |
-|   <img src=icons/com.alexbatalov.fallout-ce.png width=90>  |         Fallout CE        | [<img src=assets/install.png width=100>](https://tinyurl.com/4bct4djv)<br>`f1w5K0` |
+|   <img src=icons/com.alexbatalov.fallout-ce.png width=90>  |         Fallout CE        | [<img src=assets/install.png width=100>](https://tinyurl.com/4bct7djv)<br>`f1w5K0` |
 
 </div>
 <sub>DISCLAIMER: All of these apps are either bought and dumped by me, found on the internet archive, or are custom apps that are acquired directly from their original source. </sub>
