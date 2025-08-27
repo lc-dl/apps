@@ -56,5 +56,9 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 <h3>Packs</h3>
 Packs are multiple applications (.app files) bundled into one .zip
 
+|                   **Icon**                   |      **Name**     |                                    **Download**                                    |
+|:--------------------------------------------:|:-----------------:|:----------------------------------------------------------------------------------:|
+| <img src=icons/lcdl.papas.pack.png width=90> | Papa’s To Go Pack | [<img src=assets/install.png width=100>](https://tinyurl.com/2k67knr3)<br>`fUjTP8` |
+
 </div>
 <sub>DISCLAIMER: All of these apps are either bought and dumped by me, found on the internet archive, or are custom apps that are acquired directly from their original source. </sub>
