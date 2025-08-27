@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" width="200">
+  <img src="assets/logo.png" width="300">
   <h3>The LC-DL App Repository</h3>
   
 <p>This repository is for use with <a href="https://lc-dl.github.io"><b>LC-DL</b></a>, an app downloader built for LiveContainer.</p>
