@@ -4,7 +4,7 @@
   
 <p>This repository is for use with <a href="https://lc-dl.github.io"><b>LC-DL</b></a>, an app downloader built for LiveContainer.</p>
 
-<a href ="https://tinyurl.com/bpu5ubk8"><img src="assets/repo.png" width="150"></a><br>
+<a href ="https://tinyurl.com/bpu5ubk8"><img src="assets/repo.png" width="170"></a><br>
 
 Repository Code: `VsL2nf`<br>
 
