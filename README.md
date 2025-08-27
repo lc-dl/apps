@@ -28,11 +28,11 @@ All apps available here have been tested and are already setup for use with Live
 |                          **Icon**                          |          **Name**         |                                    **Download**                                    |
 |:----------------------------------------------------------:|:-------------------------:|:----------------------------------------------------------------------------------:|
 |    <img src=icons/com.jockeholm.undertale.png width=90>    |         UNDERTALE         | [<img src=assets/install.png width=100>](https://tinyurl.com/25d8x9bt)<br>`O4RMit` |
-|    <img src=icons/com.jockeholm.deltarune.png width=90>    |         DELTARUNE         |      [<img src=assets/install.png width=100>](https://tinyurl.com)<br>`iYNYm6`     |
-|        <img src=icons/com.atesquik.uty.png width=90>       |      UNDERTALE YELLOW     |                                                                                    |
-|    <img src=icons/com.atesquik.pizzatower.png width=90>    |        Pizza Tower        |                                                                                    |
-|        <img src=icons/con.TDMbest.UCG.png width=90>        |      Uncanny Cat Golf     |                                                                                    |
-| <img src=icons/com.GLESign.PlantsVsZombiesRH.png width=90> | Plants VS Zombies: Fusion |                                                                                    |
+|    <img src=icons/com.jockeholm.deltarune.png width=90>    |         DELTARUNE         | [<img src=assets/install.png width=100>](https://tinyurl.com/2mzwcp95)<br>`iYNYm6` |
+|        <img src=icons/com.atesquik.uty.png width=90>       |      UNDERTALE YELLOW     | [<img src=assets/install.png width=100>](https://tinyurl.com/26d99uye)<br>`X95ypi` |
+|    <img src=icons/com.atesquik.pizzatower.png width=90>    |        Pizza Tower        | [<img src=assets/install.png width=100>](https://tinyurl.com/3ebab7dj)<br>`dqq5h0` |
+|        <img src=icons/con.TDMbest.UCG.png width=90>        |      Uncanny Cat Golf     | [<img src=assets/install.png width=100>](https://tinyurl.com/yh3npuzj)<br>`Cs2dAa` |
+| <img src=icons/com.GLESign.PlantsVsZombiesRH.png width=90> | Plants VS Zombies: Fusion | [<img src=assets/install.png width=100>](https://tinyurl.com/yc2twc25)<br>`Lj5vVk` |
 |   <img src=icons/com.alexbatalov.fallout-ce.png width=90>  |         Fallout CE        |                                                                                    |
 
 </div>
