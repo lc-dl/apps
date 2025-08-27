@@ -39,7 +39,7 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 
 |                         **Icon**                         |                      **Name**                     |                                    **Download**                                    |
 |:--------------------------------------------------------:|:-------------------------------------------------:|:----------------------------------------------------------------------------------:|
-| <img src=icons/com.netflix.NGP.BloonsTDSix.png width=90> | Bloons TD 6 - Netflix<br>iOSGods Account Required | [<img src=assets/install.png width=100>](https://tinyurl.com/25d8x9bt)<br>`l3dP2d` |
+| <img src=icons/com.netflix.NGP.BloonsTDSix.png width=90> | Bloons TD 6 - Netflix<br>iOSGods Account Required | [<img src=assets/install.png width=100>](https://tinyurl.com/3ufp4uem)<br>`l3dP2d` |
 
 <h4>Ports</h4>
 
