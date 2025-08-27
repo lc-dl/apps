@@ -19,8 +19,8 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 | <img src=icons/au.com.savageinteractive.procreate-pocket.png width=90> |              Procreate Pocket             | [<img src=assets/install.png width=100>](https://tinyurl.com/35hane6c)<br>`xpCxvb` |
 |            <img src=icons/com.firecore.infuse.png width=90>            | Infuse<br>(Comes with `InfusePlus.dylib`) | [<img src=assets/install.png width=100>](https://tinyurl.com/yw728vdx)<br>`weHMIo` |
 |              <img src=icons/me.cranci.sulfur.png width=90>             |                    Sora                   | [<img src=assets/install.png width=100>](https://tinyurl.com/yhe9bzdt)<br>`0dvXD5` |
-|            <img src=icons/com.xitrix.iTorrent2.png width=90>           |                  iTorrent                 | [<img src=assets/install.png width=100>](https://tinyurl.com/y9z9fv8m)<br>`OkzLsK` |
-|         <img src=icons/MikeMichael225.qBitControl.png width=90>        |                qBitTorrent                | [<img src=assets/install.png width=100>](https://tinyurl.com/479pb9ej)<br>`6DTAzb` |
+|            <img src=icons/com.xitrix.iTorrent2.png width=90>           |                  iTorrent                 | [<img src=assets/install.png width=100>](https://tinyurl.com/479pb9ej)<br>`OkzLsK` |
+|         <img src=icons/MikeMichael225.qBitControl.png width=90>        |                qBitTorrent                | [<img src=assets/install.png width=100>](https://tinyurl.com/3ewm4ukx)<br>`6DTAzb` |
 
 <h4>Tweak Injected</h4>
 
