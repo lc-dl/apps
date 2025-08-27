@@ -1,5 +1,6 @@
 <div align="center">
-  <h2>The LC-DL App Repository</h2>
+  <img src="assets/logo.png" width="200">
+  <h3>The LC-DL App Repository</h3>
   
 <p>This repository is for use with <a href="https://lc-dl.github.io"><b>LC-DL</b></a>, an app downloader built for LiveContainer.</p>
 
@@ -24,6 +25,15 @@ All apps available here have been tested and are already setup for use with Live
 <a href="shortcuts://run-shortcut?name=LC-DL&input=[lcdl://eSsWmj]">BTD6</a>
 <h4>Ports</h4>
 
+|                          **Icon**                          |          **Name**         | **Download** |
+|:----------------------------------------------------------:|:-------------------------:|:------------:|
+|    <img src=icons/com.jockeholm.undertale.png width=90>    |         UNDERTALE         |   DOWNLOAD   |
+|    <img src=icons/com.jockeholm.deltarune.png width=90>    |         DELTARUNE         |              |
+|        <img src=icons/com.atesquik.uty.png width=90>       |      UNDERTALE YELLOW     |              |
+|    <img src=icons/com.atesquik.pizzatower.png width=90>    |        Pizza Tower        |              |
+|        <img src=icons/con.TDMbest.UCG.png width=90>        |      Uncanny Cat Golf     |              |
+| <img src=icons/com.GLESign.PlantsVsZombiesRH.png width=90> | Plants VS Zombies: Fusion |              |
+|   <img src=icons/com.alexbatalov.fallout-ce.png width=90>  |         Fallout CE        |              |
 
 </div>
 <sub>DISCLAIMER: All of these apps are either bought and dumped by me, found on the internet archive, or are custom apps that are acquired directly from their original source. </sub>
