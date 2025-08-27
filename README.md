@@ -53,5 +53,8 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 | <img src=icons/com.GLESign.PlantsVsZombiesRH.png width=90> | Plants VS Zombies: Fusion | [<img src=assets/install.png width=100>](https://tinyurl.com/yc2twc25)<br>`Lj5vVk` |
 |   <img src=icons/com.alexbatalov.fallout-ce.png width=90>  |         Fallout CE        | [<img src=assets/install.png width=100>](https://tinyurl.com/4bct7djv)<br>`f1w5K0` |
 
+<h3>Packs</h3>
+Packs are multiple applications (.app files) bundled into one .zip
+
 </div>
 <sub>DISCLAIMER: All of these apps are either bought and dumped by me, found on the internet archive, or are custom apps that are acquired directly from their original source. </sub>
