@@ -27,7 +27,7 @@ All apps available here have been tested and are already setup for use with Live
 
 |                          **Icon**                          |          **Name**         |                                      **Download**                                      |
 |:----------------------------------------------------------:|:-------------------------:|:--------------------------------------------------------------------------------------:|
-|    <img src=icons/com.jockeholm.undertale.png width=90>    |         UNDERTALE         | [<img src=“assets/install.png” width=“100”>](https://tinyurl.com/mv7s8u8p)<br>`d4uazE` |
+|    <img src=icons/com.jockeholm.undertale.png width=90>    |         UNDERTALE         | [<img src=assets/install.png width=100>](https://tinyurl.com/mv7s8u8p)<br>`d4uazE` |
 |    <img src=icons/com.jockeholm.deltarune.png width=90>    |         DELTARUNE         |                                                                                        |
 |        <img src=icons/com.atesquik.uty.png width=90>       |      UNDERTALE YELLOW     |                                                                                        |
 |    <img src=icons/com.atesquik.pizzatower.png width=90>    |        Pizza Tower        |                                                                                        |
