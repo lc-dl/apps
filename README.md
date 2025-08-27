@@ -14,12 +14,12 @@ All apps available here have been tested and are already setup for use with Live
 
 <h4>Tweaked</h4>
 
-|                        **Icon**                        |    **Name**   | **Download** |
-|:------------------------------------------------------:|:-------------:|:------------:|
-|    <img src=icons/com.atebits.Tweetie2.png width=90>   |  NeoFreeBird  |   DOWNLOAD   |
-|   <img src=icons/com.google.ios.youtube.png width=90>  |   YTLitePlus  |              |
-| <img src=icons/com.spotify.client.png width=90>        | Eevee Spotify |              |
-| <img src=icons/com.christianselig.Apollo.png width=90> | Apollo        |              |
+|                        **Icon**                        |    **Name**   |                                    **Download**                                    |
+|:------------------------------------------------------:|:-------------:|:----------------------------------------------------------------------------------:|
+|    <img src=icons/com.atebits.Tweetie2.png width=90>   |  NeoFreeBird  | [<img src=assets/install.png width=100>](https://tinyurl.com/3j52xpc8)<br>`j9McuE` |
+|   <img src=icons/com.google.ios.youtube.png width=90>  |   YTLitePlus  | [<img src=assets/install.png width=100>](https://tinyurl.com/3dywa76d)<br>`5INWPm` |
+|     <img src=icons/com.spotify.client.png width=90>    | Eevee Spotify | [<img src=assets/install.png width=100>](https://tinyurl.com/2zh456rf)<br>`r2hpaf` |
+| <img src=icons/com.christianselig.Apollo.png width=90> |     Apollo    | [<img src=assets/install.png width=100>](https://tinyurl.com/45vys3ey)<br>`goFB7j` |
 
 <h3>Games</h3>
 <a href="shortcuts://run-shortcut?name=LC-DL&input=[lcdl://eSsWmj]">BTD6</a>
