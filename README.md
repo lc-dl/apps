@@ -12,15 +12,15 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 
 <h3>Apps</h3>
 
-|                                **Icon**                                |                 **Name**                 |                                    **Download**                                    |
-|:----------------------------------------------------------------------:|:----------------------------------------:|:----------------------------------------------------------------------------------:|
-|          <img src=icons/com.lemin.Pocket-Poster.png width=90>          |               Pocket Poster              | [<img src=assets/install.png width=100>](https://tinyurl.com/25d8x9bt)<br>`8w7Dhf` |
-|     <img src=icons/au.com.savageinteractive.procreate.png width=90>    |                 Procreate                | [<img src=assets/install.png width=100>](https://tinyurl.com/2mzwcp95)<br>`lhMw7G` |
-| <img src=icons/au.com.savageinteractive.procreate-pocket.png width=90> |             Procreate Pocket             | [<img src=assets/install.png width=100>](https://tinyurl.com/26d99uye)<br>`xpCxvb` |
-|            <img src=icons/com.firecore.infuse.png width=90>            | Infuse<br>(Comes with `InfusePlus.dylib`) | [<img src=assets/install.png width=100>](https://tinyurl.com/3ebab7dj)<br>`weHMIo` |
-|              <img src=icons/me.cranci.sulfur.png width=90>             |                   Sora                   | [<img src=assets/install.png width=100>](https://tinyurl.com/yh3npuzj)<br>`0dvXD5` |
-|            <img src=icons/com.xitrix.iTorrent2.png width=90>           |                 iTorrent                 | [<img src=assets/install.png width=100>](https://tinyurl.com/yc2twc25)<br>`0kzLsK` |
-|         <img src=icons/MikeMichael225.qBitControl.png width=90>        |                qBitTorrent               | [<img src=assets/install.png width=100>](https://tinyurl.com/4bct7djv)<br>`6DTAzb` |
+|                                **Icon**                                |                  **Name**                 |                                    **Download**                                    |
+|:----------------------------------------------------------------------:|:-----------------------------------------:|:----------------------------------------------------------------------------------:|
+|          <img src=icons/com.lemin.Pocket-Poster.png width=90>          |               Pocket Poster               | [<img src=assets/install.png width=100>](https://tinyurl.com/2k67knr3)<br>`8w7Dhf` |
+|     <img src=icons/au.com.savageinteractive.procreate.png width=90>    |                 Procreate                 | [<img src=assets/install.png width=100>](https://tinyurl.com/y336rmtp)<br>`lhMw7G` |
+| <img src=icons/au.com.savageinteractive.procreate-pocket.png width=90> |              Procreate Pocket             | [<img src=assets/install.png width=100>](https://tinyurl.com/35hane6c)<br>`xpCxvb` |
+|            <img src=icons/com.firecore.infuse.png width=90>            | Infuse<br>(Comes with `InfusePlus.dylib`) | [<img src=assets/install.png width=100>](https://tinyurl.com/yw728vdx)<br>`weHMIo` |
+|              <img src=icons/me.cranci.sulfur.png width=90>             |                    Sora                   | [<img src=assets/install.png width=100>](https://tinyurl.com/yhe9bzdt)<br>`0dvXD5` |
+|            <img src=icons/com.xitrix.iTorrent2.png width=90>           |                  iTorrent                 | [<img src=assets/install.png width=100>](https://tinyurl.com/y9z9fv8m)<br>`0kzLsK` |
+|         <img src=icons/MikeMichael225.qBitControl.png width=90>        |                qBitTorrent                | [<img src=assets/install.png width=100>](https://tinyurl.com/3ewm4ukx)<br>`6DTAzb` |
 
 <h4>Tweak Injected</h4>
 
