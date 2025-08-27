@@ -11,7 +11,7 @@ All apps available here have been tested and are already setup for use with Live
 
 <h3>Apps:</h3>
 
-<h4>Tweaked</h4>
+<h4>Tweaked:</h4>
 
 <h3>Games:</h3>
 <a href="shortcuts://run-shortcut?name=LC-DL&input=[lcdl://eSsWmj]">BTD6</a>
