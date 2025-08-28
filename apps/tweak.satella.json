@@ -1,5 +1,5 @@
 {
-  "type": "app",
+  "type": "tweak",
   "name": "Satella",
   "desc": "Free in-app purchases for jailed devices on iOS 12+",
   "files": "SatellaJailed.dylib",
