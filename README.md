@@ -2,7 +2,7 @@
   <img src="assets/logo.png" width="300">
   <h3>The LC-DL App Repository</h3>
   
-<p>This repository is for use with <a href="https://lc-dl.github.io"><b>LC-DL</b></a>, an app downloader built for LiveContainer.</p>
+<p>This repository is for use with <a href="https://lc-dl.github.io"><b>LC-DL</b></a>, an app downloader for LiveContainer built in iOS Shortcuts.</p>
 
 <a href ="https://tinyurl.com/bpu5ubk8"><img src="assets/repo.png" width="170"></a><br>
 
