@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" width="300">
-  <h3>The LC-DL App Repository</h3>
+  <img src="assets/banners/main-apps.png" width="300">
   
 <p>This repository is for use with <a href="https://lc-dl.github.io"><b>LC-DL</b></a>, an app downloader for LiveContainer built in iOS Shortcuts.</p>
 
