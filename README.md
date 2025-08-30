@@ -30,7 +30,9 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 
 <h3>Games</h3>
 
-<a href="shortcuts://run-shortcut?name=LC-DL&input=[lcdl://eSsWmj]">BTD6</a>
+|                       **Icon**                       |   **Name**  |                                    **Download**                                    |
+|:----------------------------------------------------:|:-----------:|:----------------------------------------------------------------------------------:|
+| <img src=icons/com.ninjakiwi.bloonstd6.png width=90> | Bloons TD 6 | [<img src=assets/install.png width=100>](https://tinyurl.com/2k67knr3)<br>`eSsWmj` |
 
 <h4>Modded / Tweak Injected</h4>
 
