@@ -40,6 +40,8 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 |    <img src=icons/com.scottgames.fnaf4.png width=90>   |  Five Nights at Freddy’s 4  |  [<img src=assets/install.png width=100>](https://tinyurl.com/b8yb28x)<br>`JEybVg` |
 | <img src=icons/com.rockstargames.gta3ios.png width=90> |     Grand Theft Auto III    | [<img src=assets/install.png width=100>](https://tinyurl.com/hrbfhun7)<br>`oMVZjV` |
 |  <img src=icons/com.rockstargames.gta3vc.png width=90> | Grand Theft Auto: Vice City | [<img src=assets/install.png width=100>](https://tinyurl.com/45bp9ytw)<br>`MNBis6` |
+|      <img src=icons/sh.ppy.osulazer.png width=90>      |             osu!            | [<img src=assets/install.png width=100>](https://tinyurl.com/3cvw3pbz)<br>`wKrlw6` |
+|      <img src=icons/de.kamibox.typo.png width=90>      |          supertype          | [<img src=assets/install.png width=100>](https://tinyurl.com/yt38ukjj)<br>`u6JFEI` |
 
 <h4>Modded / Tweak Injected</h4>
 
