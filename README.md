@@ -5,7 +5,7 @@
 
 <a href ="https://tinyurl.com/mpfbh7jc"><img src="assets/repo.png" width="170"></a><br>
 
-All apps available here have already been setup for LiveContainer. Some apps include tweaks but are not tweak injected and apps that require additional data also have that data included.
+All apps available here have already been setup for LiveContainer. Some apps include tweaks but are *not* tweak-injected and apps that require additional data also have that data included.
 
 <h3>Apps</h3>
 
