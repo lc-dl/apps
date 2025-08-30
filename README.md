@@ -47,14 +47,14 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 |  <img src=icons/com.flipline.papascheeseriatogo.png width=90>  |    Papa’s Cheeseria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/5yvp6prj)<br>`JAOX5k` |
 |  <img src=icons/com.flipline.papascluckeriatogo.png width=90>  |    Papa’s Cluckeria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/47p34xv8)<br>`a3LUYB` |
 |  <img src=icons/com.flipline.papascupcakeriatogo.png width=90> |   Papa’s Cupcakeria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/3pxtydae)<br>`9zvKgV` |
-|  <img src=icons/com.flipline.papasdonuteriatogo.png width=90>  |    Papa’s Donuteria To Go   |                                                                                    |
-|  <img src=icons/com.flipline.papasfreezeriatogo.png width=90>  |    Papa’s Freezeria To Go   |                                                                                    |
-| <img src=icons/com.flipline.papashotdoggeriatogo.png width=90> |  Papa’s Hot Doggeria To Go  |                                                                                    |
-|   <img src=icons/com.flipline.papasmochariatogo.png width=90>  |    Papa’s Mocharia To Go    |                                                                                    |
-|  <img src=icons/com.flipline.papaspancakeriatogo.png width=90> |   Papa’s Pancakeria To Go   |                                                                                    |
-|   <img src=icons/com.flipline.papaspastariatogo.png width=90>  |    Papa’s Pastaria To Go    |                                                                                    |
-|   <img src=icons/com.flipline.papaspizzeriatogo.png width=90>  |    Papa’s Pizzeria To Go    |                                                                                    |
-|  <img src=icons/com.flipline.papasscooperiatogo.png width=90>  |    Papa’s Scooperia To Go   |                                                                                    |
+|  <img src=icons/com.flipline.papasdonuteriatogo.png width=90>  |    Papa’s Donuteria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/yc82e4yr)<br>`lMaaR7` |
+|  <img src=icons/com.flipline.papasfreezeriatogo.png width=90>  |    Papa’s Freezeria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/ymm8hhux)<br>`hcKFdd` |
+| <img src=icons/com.flipline.papashotdoggeriatogo.png width=90> |  Papa’s Hot Doggeria To Go  | [<img src=assets/install.png width=100>](https://tinyurl.com/548mxzew)<br>`jSm426` |
+|   <img src=icons/com.flipline.papasmochariatogo.png width=90>  |    Papa’s Mocharia To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/5n7mpu65)<br>`hiWZ28` |
+|  <img src=icons/com.flipline.papaspancakeriatogo.png width=90> |   Papa’s Pancakeria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/3w9a25cf)<br>`DHH7ZN` |
+|   <img src=icons/com.flipline.papaspastariatogo.png width=90>  |    Papa’s Pastaria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/52kmhpf8)<br>`ALMAQP` |
+|   <img src=icons/com.flipline.papaspizzeriatogo.png width=90>  |    Papa’s Pizzeria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/h5u8bbb9)<br>`RHHKEp` |
+|  <img src=icons/com.flipline.papasscooperiatogo.png width=90>  |    Papa’s Scooperia To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/ys2ddx9c)<br>`BjYoj9` |
 |   <img src=icons/com.flipline.papassushiriatogo.png width=90>  |    Papa’s Sushiria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/4f3zhk33)<br>`w1RvNg` |
 |   <img src=icons/com.flipline.papastacomiatogo.png width=90>   |    Papa’s Taco Mia To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/3jdsw4xk)<br>`AY7hS9` |
 |   <img src=icons/com.flipline.papaswingeriatogo.png width=90>  |    Papa’s Wingeria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/9zyu7yny)<br>`HGVDxK` |
