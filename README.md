@@ -32,7 +32,9 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 
 |                       **Icon**                       |   **Name**  |                                    **Download**                                    |
 |:----------------------------------------------------:|:-----------:|:----------------------------------------------------------------------------------:|
-| <img src=icons/com.ninjakiwi.bloonstd6.png width=90> | Bloons TD 6 | [<img src=assets/install.png width=100>](https://tinyurl.com/2k67knr3)<br>`eSsWmj` |
+| <img src=icons/com.ninjakiwi.bloonstd6.png width=90> | Bloons TD 6 | [<img src=assets/install.png width=100>](https://tinyurl.com/5n8a9kx8)<br>`eSsWmj` |
+|    <img src=icons/com.trueaxis.skate.png width=90>   |  True Skate |  [<img src=assets/install.png width=100>](https://tinyurl.com/bt86rrr)<br>`Aucheo` |
+|  <img src=icons/com.mojang.minecraftpe.png width=90> |  Minecraft  | [<img src=assets/install.png width=100>](https://tinyurl.com/4adn6z8c)<br>`tumHbB` |
 
 <h4>Modded / Tweak Injected</h4>
 
