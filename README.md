@@ -30,11 +30,14 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 
 <h3>Games</h3>
 
-|                       **Icon**                       |   **Name**  |                                    **Download**                                    |
-|:----------------------------------------------------:|:-----------:|:----------------------------------------------------------------------------------:|
-| <img src=icons/com.ninjakiwi.bloonstd6.png width=90> | Bloons TD 6 | [<img src=assets/install.png width=100>](https://tinyurl.com/5n8a9kx8)<br>`eSsWmj` |
-|    <img src=icons/com.trueaxis.skate.png width=90>   |  True Skate |  [<img src=assets/install.png width=100>](https://tinyurl.com/bt86rrr)<br>`Aucheo` |
-|  <img src=icons/com.mojang.minecraftpe.png width=90> |  Minecraft  | [<img src=assets/install.png width=100>](https://tinyurl.com/4adn6z8c)<br>`tumHbB` |
+|                        **Icon**                        |          **Name**         |                                    **Download**                                    |
+|:------------------------------------------------------:|:-------------------------:|:----------------------------------------------------------------------------------:|
+|  <img src=icons/com.ninjakiwi.bloonstd6.png width=90>  |        Bloons TD 6        | [<img src=assets/install.png width=100>](https://tinyurl.com/5n8a9kx8)<br>`eSsWmj` |
+|     <img src=icons/com.trueaxis.skate.png width=90>    |         True Skate        |  [<img src=assets/install.png width=100>](https://tinyurl.com/bt86rrr)<br>`Aucheo` |
+|   <img src=icons/com.mojang.minecraftpe.png width=90>  |         Minecraft         | [<img src=assets/install.png width=100>](https://tinyurl.com/4adn6z8c)<br>`tumHbB` |
+| <img src=icons/com.scottgames.fivenights.png width=90> |  Five Nights at Freddy’s  | [<img src=assets/install.png width=100>](https://tinyurl.com/4jn6cywu)<br>`AIMaEG` |
+|    <img src=icons/com.scottgames.fnaf2.png width=90>   | Five Nights at Freddy’s 2 | [<img src=assets/install.png width=100>](https://tinyurl.com/2z4tu5hu)<br>`Se6oLe` |
+|    <img src=icons/com.scottgames.fnaf4.png width=90>   | Five Nights at Freddy’s 4 |  [<img src=assets/install.png width=100>](https://tinyurl.com/b8yb28x)<br>`JEybVg` |
 
 <h4>Modded / Tweak Injected</h4>
 
