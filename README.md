@@ -30,34 +30,35 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 
 <h3>Games</h3>
 
-|                            **Icon**                            |           **Name**          |                                    **Download**                                    |
-|:--------------------------------------------------------------:|:---------------------------:|:----------------------------------------------------------------------------------:|
-|      <img src=icons/com.ninjakiwi.bloonstd6.png width=90>      |         Bloons TD 6         | [<img src=assets/install.png width=100>](https://tinyurl.com/5n8a9kx8)<br>`eSsWmj` |
-|         <img src=icons/com.trueaxis.skate.png width=90>        |          True Skate         |  [<img src=assets/install.png width=100>](https://tinyurl.com/bt86rrr)<br>`Aucheo` |
-|       <img src=icons/com.mojang.minecraftpe.png width=90>      |          Minecraft          | [<img src=assets/install.png width=100>](https://tinyurl.com/4adn6z8c)<br>`tumHbB` |
-|     <img src=icons/com.scottgames.fivenights.png width=90>     |   Five Nights at Freddy’s   | [<img src=assets/install.png width=100>](https://tinyurl.com/4jn6cywu)<br>`AIMaEG` |
-|        <img src=icons/com.scottgames.fnaf2.png width=90>       |  Five Nights at Freddy’s 2  | [<img src=assets/install.png width=100>](https://tinyurl.com/2z4tu5hu)<br>`Se6oLe` |
-|        <img src=icons/com.scottgames.fnaf4.png width=90>       |  Five Nights at Freddy’s 4  |  [<img src=assets/install.png width=100>](https://tinyurl.com/b8yb28x)<br>`JEybVg` |
-|     <img src=icons/com.rockstargames.gta3ios.png width=90>     |     Grand Theft Auto III    | [<img src=assets/install.png width=100>](https://tinyurl.com/hrbfhun7)<br>`oMVZjV` |
-|      <img src=icons/com.rockstargames.gta3vc.png width=90>     | Grand Theft Auto: Vice City | [<img src=assets/install.png width=100>](https://tinyurl.com/45bp9ytw)<br>`MNBis6` |
-|          <img src=icons/sh.ppy.osulazer.png width=90>          |             osu!            | [<img src=assets/install.png width=100>](https://tinyurl.com/3cvw3pbz)<br>`wKrlw6` |
-|          <img src=icons/de.kamibox.typo.png width=90>          |          supertype          | [<img src=assets/install.png width=100>](https://tinyurl.com/yt38ukjj)<br>`u6JFEI` |
-|   <img src=icons/com.flipline.papasbakeriatogo.png width=90>   |     Papa’s Bakeria To Go    |  [<img src=assets/install.png width=100>](https://tinyurl.com/ynrvwn)<br>`PYbpAx`  |
-|   <img src=icons/com.flipline.papasburgeriatogo.png width=90>  |    Papa’s Burgeria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/3ds6ux4h)<br>`yygbjQ` |
-|  <img src=icons/com.flipline.papascheeseriatogo.png width=90>  |    Papa’s Cheeseria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/5yvp6prj)<br>`JAOX5k` |
-|  <img src=icons/com.flipline.papascluckeriatogo.png width=90>  |    Papa’s Cluckeria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/47p34xv8)<br>`a3LUYB` |
-|  <img src=icons/com.flipline.papascupcakeriatogo.png width=90> |   Papa’s Cupcakeria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/3pxtydae)<br>`9zvKgV` |
-|  <img src=icons/com.flipline.papasdonuteriatogo.png width=90>  |    Papa’s Donuteria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/yc82e4yr)<br>`lMaaR7` |
-|  <img src=icons/com.flipline.papasfreezeriatogo.png width=90>  |    Papa’s Freezeria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/ymm8hhux)<br>`hcKFdd` |
-| <img src=icons/com.flipline.papashotdoggeriatogo.png width=90> |  Papa’s Hot Doggeria To Go  | [<img src=assets/install.png width=100>](https://tinyurl.com/548mxzew)<br>`jSm426` |
-|   <img src=icons/com.flipline.papasmochariatogo.png width=90>  |    Papa’s Mocharia To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/5n7mpu65)<br>`hiWZ28` |
-|  <img src=icons/com.flipline.papaspancakeriatogo.png width=90> |   Papa’s Pancakeria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/3w9a25cf)<br>`DHH7ZN` |
-|   <img src=icons/com.flipline.papaspastariatogo.png width=90>  |    Papa’s Pastaria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/52kmhpf8)<br>`ALMAQP` |
-|   <img src=icons/com.flipline.papaspizzeriatogo.png width=90>  |    Papa’s Pizzeria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/h5u8bbb9)<br>`RHHKEp` |
-|  <img src=icons/com.flipline.papasscooperiatogo.png width=90>  |    Papa’s Scooperia To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/ys2ddx9c)<br>`BjYoj9` |
-|   <img src=icons/com.flipline.papassushiriatogo.png width=90>  |    Papa’s Sushiria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/4f3zhk33)<br>`w1RvNg` |
-|   <img src=icons/com.flipline.papastacomiatogo.png width=90>   |    Papa’s Taco Mia To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/3jdsw4xk)<br>`AY7hS9` |
-|   <img src=icons/com.flipline.papaswingeriatogo.png width=90>  |    Papa’s Wingeria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/9zyu7yny)<br>`HGVDxK` |
+|                            **Icon**                            |                  **Name**                  |                                    **Download**                                    |
+|:--------------------------------------------------------------:|:------------------------------------------:|:----------------------------------------------------------------------------------:|
+|      <img src=icons/com.ninjakiwi.bloonstd6.png width=90>      |                 Bloons TD 6                | [<img src=assets/install.png width=100>](https://tinyurl.com/5n8a9kx8)<br>`eSsWmj` |
+|         <img src=icons/com.trueaxis.skate.png width=90>        |                 True Skate                 |  [<img src=assets/install.png width=100>](https://tinyurl.com/bt86rrr)<br>`Aucheo` |
+|        <img src=icons/com.robtop.geometryjump width=90>        | Geometry Dash<br>(comes with `Geode.dylib` | [<img src=assets/install.png width=100>](https://tinyurl.com/bddyep8d)<br>`3RMA3l` |
+|       <img src=icons/com.mojang.minecraftpe.png width=90>      |                  Minecraft                 | [<img src=assets/install.png width=100>](https://tinyurl.com/4adn6z8c)<br>`tumHbB` |
+|     <img src=icons/com.scottgames.fivenights.png width=90>     |           Five Nights at Freddy’s          | [<img src=assets/install.png width=100>](https://tinyurl.com/4jn6cywu)<br>`AIMaEG` |
+|        <img src=icons/com.scottgames.fnaf2.png width=90>       |          Five Nights at Freddy’s 2         | [<img src=assets/install.png width=100>](https://tinyurl.com/2z4tu5hu)<br>`Se6oLe` |
+|        <img src=icons/com.scottgames.fnaf4.png width=90>       |          Five Nights at Freddy’s 4         |  [<img src=assets/install.png width=100>](https://tinyurl.com/b8yb28x)<br>`JEybVg` |
+|     <img src=icons/com.rockstargames.gta3ios.png width=90>     |            Grand Theft Auto III            | [<img src=assets/install.png width=100>](https://tinyurl.com/hrbfhun7)<br>`oMVZjV` |
+|      <img src=icons/com.rockstargames.gta3vc.png width=90>     |         Grand Theft Auto: Vice City        | [<img src=assets/install.png width=100>](https://tinyurl.com/45bp9ytw)<br>`MNBis6` |
+|          <img src=icons/sh.ppy.osulazer.png width=90>          |                    osu!                    | [<img src=assets/install.png width=100>](https://tinyurl.com/3cvw3pbz)<br>`wKrlw6` |
+|          <img src=icons/de.kamibox.typo.png width=90>          |                  supertype                 | [<img src=assets/install.png width=100>](https://tinyurl.com/yt38ukjj)<br>`u6JFEI` |
+|   <img src=icons/com.flipline.papasbakeriatogo.png width=90>   |            Papa’s Bakeria To Go            |  [<img src=assets/install.png width=100>](https://tinyurl.com/ynrvwn)<br>`PYbpAx`  |
+|   <img src=icons/com.flipline.papasburgeriatogo.png width=90>  |            Papa’s Burgeria To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/3ds6ux4h)<br>`yygbjQ` |
+|  <img src=icons/com.flipline.papascheeseriatogo.png width=90>  |           Papa’s Cheeseria To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/5yvp6prj)<br>`JAOX5k` |
+|  <img src=icons/com.flipline.papascluckeriatogo.png width=90>  |           Papa’s Cluckeria To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/47p34xv8)<br>`a3LUYB` |
+|  <img src=icons/com.flipline.papascupcakeriatogo.png width=90> |           Papa’s Cupcakeria To Go          | [<img src=assets/install.png width=100>](https://tinyurl.com/3pxtydae)<br>`9zvKgV` |
+|  <img src=icons/com.flipline.papasdonuteriatogo.png width=90>  |           Papa’s Donuteria To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/yc82e4yr)<br>`lMaaR7` |
+|  <img src=icons/com.flipline.papasfreezeriatogo.png width=90>  |           Papa’s Freezeria To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/ymm8hhux)<br>`hcKFdd` |
+| <img src=icons/com.flipline.papashotdoggeriatogo.png width=90> |          Papa’s Hot Doggeria To Go         | [<img src=assets/install.png width=100>](https://tinyurl.com/548mxzew)<br>`jSm426` |
+|   <img src=icons/com.flipline.papasmochariatogo.png width=90>  |            Papa’s Mocharia To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/5n7mpu65)<br>`hiWZ28` |
+|  <img src=icons/com.flipline.papaspancakeriatogo.png width=90> |           Papa’s Pancakeria To Go          | [<img src=assets/install.png width=100>](https://tinyurl.com/3w9a25cf)<br>`DHH7ZN` |
+|   <img src=icons/com.flipline.papaspastariatogo.png width=90>  |            Papa’s Pastaria To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/52kmhpf8)<br>`ALMAQP` |
+|   <img src=icons/com.flipline.papaspizzeriatogo.png width=90>  |            Papa’s Pizzeria To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/h5u8bbb9)<br>`RHHKEp` |
+|  <img src=icons/com.flipline.papasscooperiatogo.png width=90>  |           Papa’s Scooperia To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/ys2ddx9c)<br>`BjYoj9` |
+|   <img src=icons/com.flipline.papassushiriatogo.png width=90>  |            Papa’s Sushiria To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/4f3zhk33)<br>`w1RvNg` |
+|   <img src=icons/com.flipline.papastacomiatogo.png width=90>   |            Papa’s Taco Mia To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/3jdsw4xk)<br>`AY7hS9` |
+|   <img src=icons/com.flipline.papaswingeriatogo.png width=90>  |            Papa’s Wingeria To Go           | [<img src=assets/install.png width=100>](https://tinyurl.com/9zyu7yny)<br>`HGVDxK` |
 
 <h4>Modded / Tweak Injected</h4>
 
