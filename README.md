@@ -42,11 +42,11 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 |      <img src=icons/com.rockstargames.gta3vc.png width=90>     | Grand Theft Auto: Vice City | [<img src=assets/install.png width=100>](https://tinyurl.com/45bp9ytw)<br>`MNBis6` |
 |          <img src=icons/sh.ppy.osulazer.png width=90>          |             osu!            | [<img src=assets/install.png width=100>](https://tinyurl.com/3cvw3pbz)<br>`wKrlw6` |
 |          <img src=icons/de.kamibox.typo.png width=90>          |          supertype          | [<img src=assets/install.png width=100>](https://tinyurl.com/yt38ukjj)<br>`u6JFEI` |
-|   <img src=icons/com.flipline.papasbakeriatogo.png width=90>   |     Papa’s Bakeria To Go    |                                                                                    |
-|   <img src=icons/com.flipline.papasburgeriatogo.png width=90>  |    Papa’s Burgeria To Go    |                                                                                    |
-|  <img src=icons/com.flipline.papascheeseriatogo.png width=90>  |    Papa’s Cheeseria To Go   |                                                                                    |
-|  <img src=icons/com.flipline.papascluckeriatogo.png width=90>  |    Papa’s Cluckeria To Go   |                                                                                    |
-|  <img src=icons/com.flipline.papascupcakeriatogo.png width=90> |   Papa’s Cupcakeria To Go   |                                                                                    |
+|   <img src=icons/com.flipline.papasbakeriatogo.png width=90>   |     Papa’s Bakeria To Go    |  [<img src=assets/install.png width=100>](https://tinyurl.com/ynrvwn)<br>`PYbpAx`  |
+|   <img src=icons/com.flipline.papasburgeriatogo.png width=90>  |    Papa’s Burgeria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/3ds6ux4h)<br>`yygbjQ` |
+|  <img src=icons/com.flipline.papascheeseriatogo.png width=90>  |    Papa’s Cheeseria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/5yvp6prj)<br>`JAOX5k` |
+|  <img src=icons/com.flipline.papascluckeriatogo.png width=90>  |    Papa’s Cluckeria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/47p34xv8)<br>`a3LUYB` |
+|  <img src=icons/com.flipline.papascupcakeriatogo.png width=90> |   Papa’s Cupcakeria To Go   | [<img src=assets/install.png width=100>](https://tinyurl.com/3pxtydae)<br>`9zvKgV` |
 |  <img src=icons/com.flipline.papasdonuteriatogo.png width=90>  |    Papa’s Donuteria To Go   |                                                                                    |
 |  <img src=icons/com.flipline.papasfreezeriatogo.png width=90>  |    Papa’s Freezeria To Go   |                                                                                    |
 | <img src=icons/com.flipline.papashotdoggeriatogo.png width=90> |  Papa’s Hot Doggeria To Go  |                                                                                    |
@@ -55,9 +55,9 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 |   <img src=icons/com.flipline.papaspastariatogo.png width=90>  |    Papa’s Pastaria To Go    |                                                                                    |
 |   <img src=icons/com.flipline.papaspizzeriatogo.png width=90>  |    Papa’s Pizzeria To Go    |                                                                                    |
 |  <img src=icons/com.flipline.papasscooperiatogo.png width=90>  |    Papa’s Scooperia To Go   |                                                                                    |
-|   <img src=icons/com.flipline.papassushiriatogo.png width=90>  |    Papa’s Sushiria To Go    |                                                                                    |
-|   <img src=icons/com.flipline.papastacomiatogo.png width=90>   |    Papa’s Taco Mia To Go    |                                                                                    |
-|   <img src=icons/com.flipline.papaswingeriatogo.png width=90>  |    Papa’s Wingeria To Go    |                                                                                    |
+|   <img src=icons/com.flipline.papassushiriatogo.png width=90>  |    Papa’s Sushiria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/4f3zhk33)<br>`w1RvNg` |
+|   <img src=icons/com.flipline.papastacomiatogo.png width=90>   |    Papa’s Taco Mia To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/3jdsw4xk)<br>`AY7hS9` |
+|   <img src=icons/com.flipline.papaswingeriatogo.png width=90>  |    Papa’s Wingeria To Go    | [<img src=assets/install.png width=100>](https://tinyurl.com/9zyu7yny)<br>`HGVDxK` |
 
 <h4>Modded / Tweak Injected</h4>
 
