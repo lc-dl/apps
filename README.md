@@ -34,7 +34,7 @@ All apps available here have already been setup for LiveContainer. Some apps inc
 |:--------------------------------------------------------------:|:------------------------------------------:|:----------------------------------------------------------------------------------:|
 |      <img src=icons/com.ninjakiwi.bloonstd6.png width=90>      |                 Bloons TD 6                | [<img src=assets/install.png width=100>](https://tinyurl.com/5n8a9kx8)<br>`eSsWmj` |
 |         <img src=icons/com.trueaxis.skate.png width=90>        |                 True Skate                 |  [<img src=assets/install.png width=100>](https://tinyurl.com/bt86rrr)<br>`Aucheo` |
-|        <img src=icons/com.robtop.geometryjump width=90>        | Geometry Dash<br>(comes with `Geode.dylib` | [<img src=assets/install.png width=100>](https://tinyurl.com/bddyep8d)<br>`3RMA3l` |
+|      <img src=icons/com.robtop.geometryjump.png width=90>      | Geometry Dash<br>(comes with `Geode.dylib` | [<img src=assets/install.png width=100>](https://tinyurl.com/bddyep8d)<br>`3RMA3l` |
 |       <img src=icons/com.mojang.minecraftpe.png width=90>      |                  Minecraft                 | [<img src=assets/install.png width=100>](https://tinyurl.com/4adn6z8c)<br>`tumHbB` |
 |     <img src=icons/com.scottgames.fivenights.png width=90>     |           Five Nights at Freddy’s          | [<img src=assets/install.png width=100>](https://tinyurl.com/4jn6cywu)<br>`AIMaEG` |
 |        <img src=icons/com.scottgames.fnaf2.png width=90>       |          Five Nights at Freddy’s 2         | [<img src=assets/install.png width=100>](https://tinyurl.com/2z4tu5hu)<br>`Se6oLe` |
