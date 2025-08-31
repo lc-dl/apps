@@ -174,5 +174,8 @@
    "44":{
       "name":"Papa's Wingeria To Go",
       "bundleID":"com.flipline.papaswingeriatogo"
-   }
+   },
+   "45":{
+      "name":"Grand Theft Auto III",
+      "bundleID":"com.rockstargames.gta3ios"
 }
